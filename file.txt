@@ -1,0 +1,6 @@
+This is a plain text file to merely serve as a function
+
+this function is simply to count the number of words
+in
+this document
+.
